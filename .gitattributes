@@ -1,0 +1,2 @@
+chart_corrected.png filter=lfs diff=lfs merge=lfs -text
+chart_cropped.png filter=lfs diff=lfs merge=lfs -text

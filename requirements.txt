@@ -1,0 +1,5 @@
+numpy
+colour-science
+colour-checker-detection
+matplotlib
+jupyterlab
